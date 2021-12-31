@@ -1,0 +1,109 @@
+.banniere 
+{
+    background: url(../assets/images/background_droit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.divCarousel 
+{
+    height: 50%;
+    padding: 0px;
+}
+    
+.carousel-inner 
+{
+    height: 50%;
+}
+
+.carousel-item 
+{
+    height: 50%;
+}
+    
+.image_mecanique 
+{
+   height: 50%;
+}
+
+#image_rapidite
+{
+    height: 330px;
+}
+
+/*flexbox pour image reprog moteur*/
+.div-categoryContainer
+{
+    display : flex;
+}
+
+.paragraph-right 
+{
+    flex : 6;
+    margin-top : 50px;
+    margin-left: 50px;
+}
+
+.image_reprog
+{
+    width: 400px;
+    margin-left: 170px;
+}
+
+/*flexbox image diag_auto*/
+.div-categorie
+{
+    display : flex;
+}
+
+.para_droite 
+{
+    flex : 6;
+    margin-top : 90px;
+    margin-left: 50px;
+}
+
+.image_diag
+{
+    width: 400px;
+    margin-left: 170px;
+}
+
+/*flexbox image pare-brise*/
+.div-category
+{
+    display : flex;
+}
+
+.para-right 
+{
+    flex : 6;
+    margin-top : 80px;
+    margin-left: 50px;
+}
+
+.image_pare_brise
+{
+    width: 400px;
+    margin-left: 170px;
+}
+
+/*flexbox image clim*/
+.div-categ
+{
+    display : flex;
+}
+
+.paragraphe_droite 
+{
+    flex : 6;
+    margin-top : 80px;
+    margin-left: 50px;
+}
+
+.image_clim
+{
+    width: 400px;
+    margin-left: 170px;
+}

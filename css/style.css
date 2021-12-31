@@ -1,0 +1,28 @@
+.accueil 
+{
+    background: url(../assets/images/outils.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.carousel-inner 
+{
+    height: 50%;
+}
+
+.carousel-item 
+{
+    height: 50%;
+}
+
+#image_rapidite
+{
+    height: 330px;
+}
+
+
+
+
+
+
